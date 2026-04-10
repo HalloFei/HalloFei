@@ -9,7 +9,6 @@ He builds things, reads strange books, and tries to understand the world one pro
 
 ## Explore
 
-- [About](about.md)
 - [Education](education.md)
 - [Projects](projects.md)
 - [Games](games.md)
